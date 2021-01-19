@@ -1,0 +1,18 @@
+Admin
+adminupttik@polimedia.ac.id 
+pass : simpeg12345
+
+simpegadmin1@polimedia.ac.id
+pass : simpeg12345
+
+simpegadmin2@polimedia.ac.id
+pass : simpeg12345
+
+simpegadmin3@polimedia.ac.id
+pass : simpeg12345
+
+simpegadmin4@polimedia.ac.id
+pass : simpeg12345
+
+simpegadmin5@polimedia.ac.id
+pass : simpeg12345
